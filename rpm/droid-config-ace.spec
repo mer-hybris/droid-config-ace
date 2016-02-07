@@ -2,7 +2,7 @@
 # ../droid-configs-device/droid-configs.inc
 %define device ace
 %define vendor htc
-%define vendor_pretty HC
+%define vendor_pretty HTC
 %define device_pretty Desire HD
 %define dcd_path ./
 # Adjust this for your device
