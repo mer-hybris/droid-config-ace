@@ -8,7 +8,7 @@ Requires:
 - pattern:jolla-sailfish-applications
 - pattern:jolla-ui-wayland
 # Early stages of porting benefit from these:
-- pattern:sailfish-porter-tools
+#- pattern:sailfish-porter-tools
 
 Summary: Jolla Configuration ace
 
